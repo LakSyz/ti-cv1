@@ -1,0 +1,25 @@
+    1  code-server --install-extension Natizyskunk.sftp --install-extension yandeu.five-server --install-extension bmewburn.vscode-intelephense-client --install-extension mblode.twig-language-2
+    2  cd ~/web/ti
+    3  cd ~/web/ti
+    4  cd ~/web/ti
+    5  rm -rf ~/web/ti
+    6  mkdir ~/web/ti
+    7  cd ~/web/ti
+    8  cd ti
+    9  git clone https://github.com/tuke-fberg-stehlikova/ti-cv01.git cv1
+   10  mkdir ~/pieskovisko
+   11  cd ~/pieskovisko
+   12  mkdir -p projekt/css projekt/img
+   13  touch projekt/index.html poznamky.txt
+   14  ls -la
+   15  cp poznamky.txt kopia.txt
+   16  ls -la
+   17  mv kopia.txt nova_poznamka.txt
+   18  ls -la
+   19  rm nova_poznamka.txt
+   20  ls -la
+   21  vi o-mne.txt
+   22  vi o-mne.txt
+   23  vi o-mne.txt
+   24  cat o-mne.txt
+   25  history > ~/pieskovisko/historia.txt
